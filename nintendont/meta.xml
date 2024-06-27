@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
 <app version="1">
-	<name>Nintendont</name>
-	<coder>FIX94, crediar</coder>
-	<version>4.431</version>
-	<release_date>20161218000000</release_date>
-	<short_description>Gamecube Loader</short_description>
-	<long_description>Commiters: GerbilSoft, JoostinOnline, GreyRogue, Howard, Cyan, nastys 
+	<name>KARDont</name>
+	<coder></coder>
+	<version>1.0.1</version>
+	<release_date>20240624000000</release_date>
+	<short_description>KAR Loader</short_description>
+	<long_description>Based on Nintendon't by FIX94 and crediar. 
 
- Project website: https://github.com/FIX94/Nintendont 
+ KARDont't Github: https://github.com/SeanMott/KARDont
+ Warp Star Project Breakdown: [put link here]
+ KAR Workshop Website: [put link here]
 
-Nintendont allows you to run GameCube games on a Wii or Wii U from an SD or HDD device.</long_description>
+KARDon't allows you play KAR and it's mods on a Wii or Wii U from an SD or HDD device.</long_description>
 	<no_ios_reload/>
 	<ahb_access/>
 </app>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<app version="1">
+	<name>KARDont</name>
+	<coder></coder>
+	<version>1.0.1</version>
+	<release_date>20240624000000</release_date>
+	<short_description>KAR Loader</short_description>
+	<long_description>Based on Nintendon't by FIX94 and crediar. 
+
+ KARDont't Github: https://github.com/SeanMott/KARDont
+ Warp Star Project Breakdown: [put link here]
+ KAR Workshop Website: [put link here]
+
+KARDon't allows you play KAR and it's mods on a Wii or Wii U from an SD or HDD device.</long_description>
+	<no_ios_reload/>
+	<ahb_access/>
+</app>
